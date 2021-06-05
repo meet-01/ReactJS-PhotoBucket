@@ -8,7 +8,7 @@ const Title = () => {
       <p>
         You make memories, we save it for you to relive again and again! Photo
         Bucket is the place to store all your memories. just click, share,
-        relive!
+        relive.
       </p>
     </div>
   );
